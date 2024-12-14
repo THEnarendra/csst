@@ -1,0 +1,73 @@
+.about-us {
+    padding: 8%;
+    background-color: #f5f5f5;
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+  }
+  
+  .about-us h1 {
+    font-size: 3rem;
+    color: #4e00b7;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    font-size: 2rem;
+    color: #333;
+    margin: 1.5rem 0;
+  }
+  
+  .about-us ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+  }
+  
+  .about-us ul li {
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+  }
+  
+  .about-us p {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    text-align: justify;
+  }
+
+
+  .services {
+    padding: 8%;
+    background-color: #f9f9f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+  }
+  
+  .services h1 {
+    font-size: 3rem;
+    color: #4e00b7;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .services ul {
+    list-style-type: disc;
+    padding-left: 2rem;
+  }
+  
+  .services ul li {
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+  }
+  
+  .services h2 {
+    font-size: 2rem;
+    color: #333;
+    margin: 1.5rem 0;
+  }
+  
+  .services p {
+    font-size: 1.2rem;
+    text-align: justify;
+  }

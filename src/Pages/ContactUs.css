@@ -1,0 +1,35 @@
+.contact-us {
+    padding: 8%;
+    background-color: #eef;
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+  }
+  
+  .contact-us h1 {
+    font-size: 3rem;
+    color: #4e00b7;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .contact-us ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-us ul li {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+  }
+  
+  .contact-us h2 {
+    font-size: 2rem;
+    color: #333;
+    margin: 1.5rem 0;
+  }
+  
+  .contact-us p {
+    font-size: 1.2rem;
+    text-align: justify;
+  }

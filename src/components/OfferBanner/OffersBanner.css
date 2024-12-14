@@ -1,0 +1,8 @@
+.offers{
+  padding-top: 5.7%;
+}
+.offersImg{
+  height: 60vh;
+  width: 100vw;
+  object-fit: cover;
+}
